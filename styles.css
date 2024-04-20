@@ -1,0 +1,17 @@
+
+.anchor{
+    color: black;
+    text-decoration: none;
+}
+#img-caption{
+    text-align: center;
+}
+#img-div{
+    padding: 10px;
+}
+p{
+    padding: 10px;
+}
+#title{
+    text-align: center;
+}
